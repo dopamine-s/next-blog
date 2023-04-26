@@ -9,7 +9,7 @@ function Hero() {
       <div className={classes.image}>
         <Image src={heroImg} alt="An image of Fedor" />
       </div>
-      <h1>Hello! I&apos;aposm Fedor.</h1>
+      <h1>Hello! I&apos;m Fedor.</h1>
       <p>
         I blog about my life.
         <br /> Studying frontend, traveling, listening to music.
