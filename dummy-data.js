@@ -38,5 +38,5 @@ export const DUMMY_POST = {
   title: 'Getting Started with NextJS',
   image: 'getting-started-with-nextjs.png',
   date: '2023-04-28',
-  content: '# this is a first post',
+  content: '# This is a first post',
 };
