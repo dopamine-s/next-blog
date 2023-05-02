@@ -32,3 +32,11 @@ export const DUMMY_POSTS = [
     date: '2023-04-28',
   },
 ];
+
+export const DUMMY_POST = {
+  slug: 'getting-started-with-nextjs',
+  title: 'Getting Started with NextJS',
+  image: 'getting-started-with-nextjs.png',
+  date: '2023-04-28',
+  content: '# this is a first post',
+};
