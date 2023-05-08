@@ -21,7 +21,7 @@ function PostItem({ title, image, excerpt, date, slug }) {
             alt={title}
             width={300}
             height={200}
-            layout="responsive"
+            priority={true}
           />
         </div>
         <div className={classes.content}>
