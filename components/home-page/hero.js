@@ -7,7 +7,7 @@ function Hero() {
   return (
     <section className={classes.hero}>
       <div className={classes.image}>
-        <Image src={heroImg} alt="An image of Fedor" />
+        <Image src={heroImg} alt="An image of Fedor" priority={true} />
       </div>
       <h1>Hi! I&apos;m Fedor.</h1>
       <p>
