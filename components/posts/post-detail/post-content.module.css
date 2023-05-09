@@ -7,10 +7,16 @@
   background-color: var(--color-grey-100);
   border-radius: 6px;
   padding: var(--size-4);
+  position: relative;
 }
 
 .content p {
   color: var(--color-grey-800);
+}
+
+.image img {
+  width: 100%;
+  height: auto;
 }
 
 .content .image {
