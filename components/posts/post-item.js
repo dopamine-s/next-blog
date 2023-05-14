@@ -19,8 +19,8 @@ function PostItem({ title, image, excerpt, date, slug }) {
           <Image
             src={imagePath}
             alt={title}
-            width={300}
-            height={200}
+            width={600}
+            height={400}
             priority={true}
           />
         </div>
